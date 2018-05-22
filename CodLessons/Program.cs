@@ -10,6 +10,9 @@ namespace CodLessons
     {
         static void Main(string[] args)
         {
-        }
+
+            int[] A = { 2, 1, 1, 2, 3, 1 };
+            int distinct = Distinct.solution(A);
+    }
     }
 }
